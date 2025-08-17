@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"lib\\\\api.ts -> ../public/mock/coins.json\":{\"id\":\"lib\\\\api.ts -> ../public/mock/coins.json\",\"files\":[\"static/chunks/public_mock_coins_json.js\"]},\"lib\\\\api.ts -> ../public/mock/market_chart.json\":{\"id\":\"lib\\\\api.ts -> ../public/mock/market_chart.json\",\"files\":[\"static/chunks/public_mock_market_chart_json.js\"]}}"
