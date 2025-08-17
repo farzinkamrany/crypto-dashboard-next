@@ -48,14 +48,6 @@ export default function Home() {
 
       <div className="flex items-center justify-between gap-3">
         <SearchBar value={search} onChange={setSearch} />
-        <a
-          href="https://vercel.com/new"
-          target="_blank"
-          rel="noreferrer"
-          className="text-sm underline"
-        >
-          Deploy
-        </a>
       </div>
 
       {loading ? (
